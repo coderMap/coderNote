@@ -2,9 +2,9 @@
 
 > 程序员面试通关手册，文章首发于公众号**程序员杂货铺**，2019，共同进步 !
 
-| &nbsp;java&nbsp; | 数据库 | &nbsp;分布式&nbsp;|操作系统&计算机网络| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
-| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|[:coffee:](#coffee-java) | [:floppy_disk:](#floppy_disk-数据库) | [:cloud:](#cloud-分布式) | [:computer:](#computer-操作系统)|  [:pencil2:](#pencil2-算法)  | [:art:](#art-面向对象) | [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
+| &nbsp;java&nbsp; | 数据库 | &nbsp;分布式&nbsp;|操作系统| &nbsp;&nbsp;算法&nbsp;&nbsp;|
+| :---: | :----: | :---: | :----: | :----: |
+|[:coffee:](#coffee-java) | [:floppy_disk:](#floppy_disk-数据库) | [:cloud:](#cloud-分布式) | [:computer:](#computer-操作系统)|  [:pencil2:](#pencil2-算法)  | 
 
 
 ## :coffee: Java
@@ -31,14 +31,14 @@
 - [全局唯一ID](1.md)
 - [分布式事务](1.md)
 
-## :computer: 操作系统&计算机网络
+## :computer: 操作系统
 
 - [计算机操作系统](1.md)
 - [Linux](1.md)
 - [计算机网络](1.md)
 - [HTTP](1.md)
 
-## :pencil2: LeetCode
+## :pencil2: 算法
 
 - [剑指 Offer 题解](1.md)
 - [Leetcode 题解](1.md)
