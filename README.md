@@ -52,5 +52,5 @@
 
 <br>
 
-<div align="center"><img width="300px" src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/other/公众号海报6.png"></img></div>
+<div align="center"><img width="300px" src="https://github.com/coderMap/coderNote/blob/master/src/base_img/公众号二维码.jpg"></img></div>
 
