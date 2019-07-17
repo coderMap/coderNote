@@ -2,9 +2,9 @@
 
 > 程序员面试通关手册，文章首发于公众号**程序员杂货铺**，2019，共同进步 !
 
-| &nbsp;java&nbsp; | 数据库 | &nbsp;网络&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
+| &nbsp;java&nbsp; | 数据库 | &nbsp;分布式&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|[:coffee:](#coffee-java) | [:floppy_disk:](#floppy_disk-数据库) | [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
+|[:coffee:](#coffee-java) | [:floppy_disk:](#floppy_disk-数据库) | [:cloud:](#cloud-网络) |  [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:art:](#art-面向对象) | [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
 
 
 ## :coffee: Java
