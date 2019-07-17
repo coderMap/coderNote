@@ -1,10 +1,6 @@
-<div align="center">
-    <a href="https://gitstar-ranking.com/repositories"> <img src="https://badgen.net/badge/Rank/22?icon=github&color=4ab8a1"></a>
-    <a href="assets/download.md"> <img src="https://badgen.net/badge/OvO/%E7%A6%BB%E7%BA%BF%E4%B8%8B%E8%BD%BD?icon=telegram&color=4ab8a1"></a>
-    <a href="https://cyc2018.github.io/CS-Notes"> <img src="https://badgen.net/badge/CyC/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph&color=4ab8a1"></a>
-    <a href="#微信公众号"> <img src="https://badgen.net/badge/%e5%85%ac%e4%bc%97%e5%8f%b7/CyC2018?icon=rss&color=4ab8a1"></a>
-</div>
-<br>
+## :sparkling_heart:说明 ##
+
+> 程序员面试通关手册，文章首发于公众号**程序员杂货铺**，2019，共同进步 !
 
 | &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
@@ -20,10 +16,10 @@
 
 ## :coffee: Java
 
-- [Java 基础](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20基础.md)
-- [Java 容器](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20容器.md)
-- [Java 并发](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20并发.md)
-- [Java 虚拟机](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20虚拟机.md)
+- [Java 基础](1.md)
+- [Java 容器](1.md)
+- [Java 并发](1.md)
+- [Java 虚拟机](1.md)
 - [Java I/O](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20IO.md)
 
 ## :floppy_disk: 数据库 
@@ -59,5 +55,5 @@
 
 <br>
 
-<div align="center"><img width="300px" src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/other/公众号海报6.png"></img></div>
+//<div align="center"><img width="300px" src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/other/公众号海报6.png"></img></div>
 
