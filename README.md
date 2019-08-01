@@ -53,5 +53,5 @@
 
 <br>
 
-<div align="center"><img width="800px" height="200px" src="https://github.com/coderMap/coderNote/blob/master/src/base_img/公众号二维码.jpg"></img></div>
+<div align="center"><img width="800px" height="400px" src="https://github.com/coderMap/coderNote/blob/master/src/base_img/公众号二维码.jpg"></img></div>
 
