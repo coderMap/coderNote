@@ -9,7 +9,7 @@
 
 ## :coffee: Java
 
-- [Java 知识谱图](javaKnowledgePic.md)
+- [Java 知识谱图](https://github.com/coderMap/coderNote/blob/master/src/base_img/公众号二维码.jpg)
 - [Java 基础](1.md)
 - [Java 应用框架](1.md)
 - [Java 容器](1.md)
